@@ -1,8 +1,8 @@
 Package.describe({
-  name: 'gsklee:ngstorage',
+  name: 'bratishchev:ngstorage',
   version: '0.3.9',
   summary: 'ngStorage package for Meteor',
-  git: 'https://github.com/gsklee/ngStorage',
+  git: 'https://github.com/bratishchev/ngStorage',
   documentation: 'README.md'
 });
 
