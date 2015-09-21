@@ -1,6 +1,6 @@
 Package.describe({
   name: 'bratishchev:ngstorage',
-  version: '0.3.9',
+  version: '0.4.0',
   summary: 'ngStorage package for Meteor',
   git: 'https://github.com/bratishchev/ngStorage',
   documentation: 'README.md'
